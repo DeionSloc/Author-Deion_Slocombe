@@ -5,6 +5,7 @@ body {
     display: grid;
     flex-direction: column;
     font-size: medium;
+    color: white;
 }
 
 .bio-container {
