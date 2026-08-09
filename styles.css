@@ -8,7 +8,7 @@ body {
 }
 
 .bio-container {
-    font-size: 18px;
+    font-size: 1rem;
     color: #e5e7eb;
 }
 
@@ -19,7 +19,7 @@ body {
 }
 
 .hero {
-    font-size: 48px;
+    font-size: 2rem;
     font-weight: 900;
     color: #F9FAF8;
 }
